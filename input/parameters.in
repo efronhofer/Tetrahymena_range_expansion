@@ -1,0 +1,30 @@
+inputfile for parameters
+
+simulation time (sim_time)
+5000
+burn in time (burn_in)
+1000
+number of repeats (max_runs)
+1
+variance used for mutation (mut_sd)
+0.2
+mutation rate (mut_rate) 0.0001
+0.001
+maximal amount of prey (rel. to resource carrying capacity; max_prey) 0.05
+0.03
+fertility (lambda_null) ; this is the maximal efficiency of making one consumer out of one resource item  1000
+700
+maximal foraging efficiency for linear trade-off function (1/half saturation constant of type II function response; foraging_efficiency_max) 0.05
+0.02
+random patch extinction probability (epsilon)
+0
+dispersal mortality (mu0)
+0
+constant resource addition (relative to K)
+0
+resource fertility (lambda0_resources) 2
+4
+resource capacity (capacity_resources) 50
+50
+maximal dispersal value (maxDisp) 4
+3
